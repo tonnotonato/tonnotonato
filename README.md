@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+👨‍💻 Backend Developer | ⚡ Building Modern Web Apps
+
+🚀 Symfony | 🐳 Docker | ⚛️ React | 📡 APIs | 🐧 Ubuntu
+
+- 🌱 I’m currently learning React 
+- 📫 How to reach me: tonatotonno+github@gmail.com
+
 <!--
 **tonnotonato/tonnotonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
