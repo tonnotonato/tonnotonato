@@ -6,11 +6,12 @@
 
 I’m currently working on: 
 - mapverse.gg
+
 My latest projects:
 - cheatercheck.io
 - hashhelper.io
 
-- 📫 How to reach me: tonatotonno+github@gmail.com
+📫 How to reach me: tonatotonno+github@gmail.com
 
 <!--
 **tonnotonato/tonnotonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
