@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-👨‍💻 Backend Developer | ⚡ Building Modern Web Apps
+👨‍💻 Backend Developer | Building Modern Web Apps
 
-🚀 Symfony | 🐳 Docker | ⚛️ React | 📡 APIs | 🐧 Ubuntu
+🚀 Symfony | Docker | APIs | Ubuntu | SEO 
 
-- 🌱 I’m currently learning React 
+I’m currently working on: 
+- mapverse.gg
+My latest projects:
+- cheatercheck.io
+- hashhelper.io
+
 - 📫 How to reach me: tonatotonno+github@gmail.com
 
 <!--
